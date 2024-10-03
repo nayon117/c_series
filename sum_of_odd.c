@@ -3,5 +3,14 @@
 
 int main(){
     int n;
-    scanf("%d", n);
+    int sum = 0;
+    printf("Enter a odd number: ");
+    scanf("%d", &n);
+
+    for (int i = 1; i<=n; i+=2){
+        if(i %2 != 0) {
+            sum += i;   
+        }
+    }
+    printf("Sum: %d\n", sum);
 }

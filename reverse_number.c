@@ -13,6 +13,7 @@ int main(){
      int lastDigit = num % 10;
       reverseNum = reverseNum * 10 + lastDigit;
       num /= 10;
+
    }
    
     printf("Reverse Form: %d" , reverseNum);
