@@ -6,8 +6,6 @@ int main() {
 
     long long sum = (1LL*(n+1)*n)/2;
    
-
     printf("%lld\n", sum);
-
 
 }
