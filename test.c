@@ -1,5 +1,5 @@
 /*
-@ check string palindrome
+@ 
 */
 
 #include <stdio.h>
@@ -10,6 +10,7 @@
 
 int main()
 {
-   
+   int arr[] = {1,2,4,6,7,0,9};
+  
     return 0;
 }
