@@ -1,5 +1,5 @@
 /*
-@ 
+@ find average
 */
 
 #include <stdio.h>
