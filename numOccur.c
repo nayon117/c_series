@@ -1,3 +1,7 @@
+/*
+how many times a number occur in array
+output: 4 found  3 times
+*/
 #include<stdio.h>
 
 int occurences (int arr[],int length,int to_find){
