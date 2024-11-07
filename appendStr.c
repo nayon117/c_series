@@ -1,5 +1,5 @@
 /*
-@ 
+@ append string 
 */
 
 #include <stdio.h>
